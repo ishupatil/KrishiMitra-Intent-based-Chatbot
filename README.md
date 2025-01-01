@@ -38,7 +38,7 @@ This repository features an **AI-powered chatbot** built using Python, Keras, an
 
 1. **Input Preprocessing**: User messages are preprocessed using NLP techniques (tokenization, lemmatization).  
 2. **Intent Prediction**: The processed text is passed to a Keras model trained to classify intents.  
-3. **Response Generation**: A predefined response is fetched from the `intents.json` file based on the predicted intent.  
+3. **Response Generation**: A predefined response is fetched from the `intents_2.json` file based on the predicted intent.  
 
 ---
 
