@@ -29,7 +29,7 @@ This repository features an **AI-powered chatbot** built using Python, Keras, an
 
 4. **Run the web application**:  
    ```bash  
-   streamlit run app_2_gui.py  
+   streamlit run app_2.py  
    ```  
 
 ---
