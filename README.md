@@ -49,7 +49,7 @@ This repository features an **AI-powered chatbot** built using Python, Keras, an
 - `intents_2.json`: JSON file storing intents, patterns, and responses.  
 - `new.py`: Serialized trained model file.  
 - `requirements.txt`: List of dependencies.
-- `word.pkl`:List of unique words or tokens derived from the training data (e.g., intents in intents_2.json).
+- `words.pkl`:List of unique words or tokens derived from the training data (e.g., intents in intents_2.json).
 - `vectorizer.pkl`: A CountVectorizer, TfidfVectorizer, or a custom vectorizer used to convert text data into numerical features.
 - ## Web Application  
 
