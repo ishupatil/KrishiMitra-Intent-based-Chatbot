@@ -24,12 +24,12 @@ This repository features an **AI-powered chatbot** built using Python, Keras, an
 
 3. **Run in CLI mode**:  
    ```bash  
-   python chatbot.py  
+   python Chatbot.py  
    ```  
 
 4. **Run the web application**:  
    ```bash  
-   streamlit run app_2.py  
+   streamlit run app.py  
    ```  
 
 ---
@@ -44,8 +44,8 @@ This repository features an **AI-powered chatbot** built using Python, Keras, an
 
 ## File Structure  
 
-- `chatbot.py`: Script for the command-line chatbot.  
-- `app_2.py`: Streamlit-based graphical chatbot interface.  
+- `Chatbot.py`: Script for the command-line chatbot.  
+- `app.py`: Streamlit-based graphical chatbot interface.  
 - `intents_2.json`: JSON file storing intents, patterns, and responses.  
 - `new.py`: Serialized trained model file.  
 - `requirements.txt`: List of dependencies.
@@ -57,7 +57,7 @@ The chatbot’s web application provides a user-friendly interface for real-time
 
 To launch the web app:  
 ```bash  
-streamlit run app_2.py  
+streamlit run app.py  
 ```  
 ## Contributions  
 We welcome contributions! Fork this repository, make improvements, and open a pull request.  
