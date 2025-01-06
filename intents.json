@@ -1,0 +1,57 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "Hey there", "Good morning", "Good evening"],
+        "responses": ["Hello! How can I assist you today?", "Hi there! What can I help you with?", "Hey! What farming-related question do you have today?"]
+    },
+    {
+        "tag": "crop_advice",
+        "patterns": ["What crops should I grow?", "Which crop is suitable for my area?", "Best crops for this season?", "What are good crops for winter?"],
+        "responses": ["It depends on your region and the season. Can you tell me more about your location and soil type?", "For winter, you could grow wheat, mustard, or peas. For summer, consider rice or maize."]
+    },
+    {
+        "tag": "fertilizer_advice",
+        "patterns": ["What fertilizer should I use?", "Best fertilizer for wheat?", "How to improve soil fertility?", "Which fertilizers are organic?"],
+        "responses": ["Compost or manure is great for organic farming. For wheat, nitrogen-rich fertilizers work well.", "You can use urea for nitrogen and DAP for phosphorus.", "Have you tested your soil? That can help determine the best fertilizer."]
+    },
+    {
+        "tag": "pest_control",
+        "patterns": ["How do I control pests?", "Best way to prevent pests?", "How to deal with insects on crops?", "Any organic pest control methods?"],
+        "responses": ["Neem oil is a great organic option for pest control.", "Crop rotation and healthy soil can reduce pest issues.", "You can also use traps or natural predators like ladybugs."]
+    },
+    {
+        "tag": "weather_update",
+        "patterns": ["What's the weather like?", "Will it rain tomorrow?", "How to prepare for bad weather?", "Weather conditions for farming?"],
+        "responses": ["You can check your local weather forecast online or through agricultural weather apps.", "Ensure proper drainage to prepare for heavy rain.", "Would you like recommendations for weather monitoring tools?"]
+    },
+    {
+        "tag": "irrigation",
+        "patterns": ["How much water do my crops need?", "Best irrigation methods?", "How to conserve water in farming?", "Should I water crops daily?"],
+        "responses": ["Drip irrigation is efficient for water conservation.", "It depends on your crop and soil type. Can you provide more details?", "Avoid overwatering. Check the soil moisture before irrigation."]
+    },
+    {
+        "tag": "crop_diseases",
+        "patterns": ["How to identify crop diseases?", "My plants have spots on leaves. What should I do?", "Signs of crop disease?", "How to prevent crop diseases?"],
+        "responses": ["Spots on leaves might indicate fungal infections. Try using fungicides.", "Crop rotation and healthy soil can prevent many diseases.", "Send me a picture of the affected plant for a better diagnosis."]
+    },
+    {
+        "tag": "market_prices",
+        "patterns": ["What's the price of wheat?", "Market rates for vegetables?", "How to check crop prices?", "Price of rice in the market?"],
+        "responses": ["You can check market prices online or through your local agricultural office.", "Would you like me to suggest apps for tracking market rates?", "Prices vary by region. Can you share your location?"]
+    },
+    {
+        "tag": "government_schemes",
+        "patterns": ["Any farming subsidies?", "Government schemes for farmers?", "How to apply for crop insurance?", "Farming loans available?"],
+        "responses": ["The government offers several subsidies for seeds and fertilizers. Check your local agricultural department.", "Pradhan Mantri Fasal Bima Yojana provides crop insurance. Would you like more details?", "You can apply for loans through cooperative banks or farmer support programs."]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["Bye", "Goodbye", "See you later", "Thanks, bye", "Catch you later"],
+        "responses": ["Goodbye! Happy farming!", "Take care and good luck with your crops!", "See you soon! Let me know if you have more questions."]
+    },
+    {
+        "tag": "thank_you",
+        "patterns": ["Thank you", "Thanks", "Thanks a lot", "Much appreciated"],
+        "responses": ["You're welcome!", "Happy to help!", "Glad I could assist you!"]
+    }
+]
